@@ -1,0 +1,1 @@
+This is a Retrieval-Augmented Generation (RAG) powered LLM application for financial analysis use case. This application employs a locally run Llama2-7b-chat model, developed by Meta and the UAE-Large-V1 text embedding model developed by UAE.
